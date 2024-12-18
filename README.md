@@ -44,10 +44,15 @@
 5. Запускайте разные траектории движения.
 
    `python zig_zag_mode.py`
+   
    `python edge_mode.py`
+   
    `python complex_mode.py`
+   
    `python spot_mode.py`
+   
    `python spot_all_room_mode.py`
+   
 
 ### Авторы
 
