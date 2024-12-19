@@ -46,6 +46,6 @@
    `python spot_all_room_mode.py`
    
 
-### Авторы
+### Автор
 
 - Семенова Милана - [Ссылка на профиль GitHub](https://github.com/millfsw)
