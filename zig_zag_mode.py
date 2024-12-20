@@ -1,4 +1,4 @@
-# zig zag mode (уборка зиг-загом)
+# zigzag mode (уборка зигзагом)
 import matplotlib.pyplot as plt
 import matplotlib.animation as animation
 from matplotlib.patches import *
