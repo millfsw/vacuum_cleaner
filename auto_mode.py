@@ -1,4 +1,4 @@
-# complex mode (edge mode and zig-zag mode) (комплексная уборка)
+# auto mode (edge mode and zig-zag mode) (автоматический режим уборки)
 import matplotlib.pyplot as plt
 import matplotlib.animation as animation
 from matplotlib.patches import *
